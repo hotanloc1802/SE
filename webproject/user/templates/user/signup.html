@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+{% load static %}
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <link rel="stylesheet" href="{% static 'css/globals.css' %}" />
+    <link rel="stylesheet" href="{% static 'css/styleguide.css' %}" />
+    <link rel="stylesheet" href="{% static 'user/signup.css' %}"/>
+  </head>
+  <body>
+    <div class="element-signup">
+      <div class="div">
+        <div class="overlap">
+          <img class="HC-showcase" src="https://c.animaapp.com/qUsUxF2m/img/hc-showcase-26-1@2x.png" />
+        </div>
+        <div class="overlap-group">
+          <div class="rectangle"></div>
+          <div class="rectangle-2"></div>
+          <div class="group">
+            <p class="welcomeback-fabiana">Đăng ký tài khoản nhee</p>
+            <p class="text-wrapper">Cậu đăng ký ở đây nhee</p>
+          </div>
+          <form id="signupForm" method="POST" action="{% url 'signup' %}">
+          {% csrf_token %}
+            <div class="group-2">
+            <input class="frame" type="email" name="email" id="email" ><div class="text"></div></input>
+            <div class="label">Địa chỉ Email</div>
+          </div>
+          <div class="group-3" >
+            <input class="frame" type="text" name="fullname" id="fullname" ><div class="text"></div></input>
+            <div class="label">Họ và tên</div>
+          </div>
+          <div class="checkbox-wrapper">
+            <label class="checkbox-container">
+              <h1 class="checkbox-text">Ghi nhớ tài khoản giúp cậu</h1>
+              <input type="checkbox" checked>
+              <span class="checkmark"></span>
+            </label>
+          </div>
+          <div class="overlap-group-wrapper">
+            <div class="overlap-group-2">
+              <div class="group-4">
+                <input class="frame-2" type="text" name="pass" id="pass" ></input>
+                <div class="label">Mật khẩu</div>
+              </div>
+            </div>
+          </div>
+          <button class="button" type="submit" id="submitButton" >
+            <img class="close-up" src="https://c.animaapp.com/qUsUxF2m/img/close-up@2x.png" />
+            <div class="text-wrapper-2">DÔ MUA HOA THOIII</div>
+          </button>
+          </form>
+        </div>
+        <script>
+          document.addEventListener('DOMContentLoaded', function () {
+              const form = document.getElementById('signupForm');
+              const submitButton = document.getElementById('submitButton');
+      
+              // Ngăn chặn hành vi gửi form mặc định
+              form.addEventListener('submit', function (event) {
+                  event.preventDefault(); // Chặn gửi form mặc định
+      
+                  // Kiểm tra nếu nút submit được nhấn
+                  if (event.submitter === submitButton) {
+                      form.submit(); // Thực hiện gửi form
+                  }
+              });
+          });
+      </script>
+        <img class="hoa-nhy-tng-tng" src="https://c.animaapp.com/qUsUxF2m/img/hoa-nh-y-t-ng-t-ng.svg" />
+        <img class="bng-do" src="https://c.animaapp.com/qUsUxF2m/img/b-ng-d-o.svg" />
+        <img class="bng-quo" src="https://c.animaapp.com/qUsUxF2m/img/b-ng-qu-o.svg" />
+        <img class="u-x" src="https://c.animaapp.com/qUsUxF2m/img/--u-x--1@2x.png" />
+        <img class="hoa-nhy-tng-tng-2" src="https://c.animaapp.com/qUsUxF2m/img/hoa-nh-y-t-ng-t-ng-1.svg" />
+        <img class="bng-do-2" src="https://c.animaapp.com/qUsUxF2m/img/b-ng-d-o-1.svg" />
+        <img class="bng-quo-2" src="https://c.animaapp.com/qUsUxF2m/img/b-ng-qu-o-1.svg" />
+        <img class="u-x-2" src="https://c.animaapp.com/qUsUxF2m/img/--u-x--1@2x.png" />
+      </div>
+    </div>
+  </body>
+</html>

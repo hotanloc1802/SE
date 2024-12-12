@@ -1,0 +1,2245 @@
+.workshop-event {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .workshop-event .overlap-wrapper {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1680px;
+    height: 3612px;
+  }
+  
+  .workshop-event .overlap {
+    position: relative;
+    width: 3545px;
+    height: 4947px;
+    top: -656px;
+    left: -684px;
+  }
+  
+  .workshop-event .rectangle {
+    position: absolute;
+    width: 2675px;
+    height: 4510px;
+    top: 437px;
+    left: 286px;
+    background-color: var(--hong-trng-lm);
+  }
+  
+  .workshop-event .blob {
+    position: absolute;
+    width: 1680px;
+    height: 1356px;
+    top: 2912px;
+    left: 684px;
+  }
+  
+  .workshop-event .group {
+    position: absolute;
+    width: 3545px;
+    height: 3923px;
+    top: 0;
+    left: 0;
+  }
+  
+  .workshop-event .overlap-group {
+    position: absolute;
+    width: 1680px;
+    height: 1458px;
+    top: 656px;
+    left: 684px;
+  }
+  
+  .workshop-event .div {
+    position: absolute;
+    width: 1680px;
+    height: 1430px;
+    top: 0;
+    left: 0;
+  }
+  
+  .workshop-event .img {
+    position: absolute;
+    width: 1680px;
+    height: 1155px;
+    top: 0;
+    left: 0;
+  }
+  
+  .workshop-event .blob-2 {
+    position: absolute;
+    width: 1680px;
+    height: 1118px;
+    top: 0;
+    left: 0;
+  }
+  
+  .workshop-event .blob-3 {
+    position: absolute;
+    width: 1680px;
+    height: 1088px;
+    top: 0;
+    left: 0;
+  }
+  
+  .workshop-event .group-2 {
+    position: absolute;
+    width: 466px;
+    height: 308px;
+    top: 1000px;
+    left: 187px;
+  }
+  
+  .workshop-event .overlap-group-2 {
+    position: absolute;
+    width: 359px;
+    height: 308px;
+    top: 0;
+    left: 0;
+  }
+  
+  .workshop-event .text-wrapper {
+    position: absolute;
+    width: 78px;
+    top: 5px;
+    left: 79px;
+    transform: rotate(-9.26deg);
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 800;
+    color: var(--dng-kh);
+    font-size: 140px;
+    letter-spacing: 0;
+    line-height: 168.0px;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-2 {
+    width: 70px;
+    top: 6px;
+    left: 12px;
+    transform: rotate(-9.26deg);
+    font-weight: 800;
+    color: var(--cam-chy);
+    font-size: 140px;
+    line-height: 168.0px;
+    position: absolute;
+    font-family: "Montserrat Alternates", Helvetica;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-3 {
+    width: 90px;
+    top: 19px;
+    left: 166px;
+    transform: rotate(3.90deg);
+    text-shadow: 0px 3px 7px #eecdcd1a;
+    font-weight: 800;
+    color: var(--pink-sn-sa);
+    font-size: 140px;
+    line-height: 168.0px;
+    position: absolute;
+    font-family: "Montserrat Alternates", Helvetica;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-4 {
+    position: absolute;
+    width: 89px;
+    top: 6px;
+    left: 260px;
+    transform: rotate(-1.50deg);
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 800;
+    color: var(--cam-chy);
+    font-size: 140px;
+    letter-spacing: 0;
+    line-height: 168.0px;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-5 {
+    position: absolute;
+    width: 47px;
+    top: 138px;
+    left: 46px;
+    transform: rotate(4.13deg);
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 800;
+    color: var(--pink-sn-sa);
+    font-size: 140px;
+    letter-spacing: 0;
+    line-height: 168.0px;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-6 {
+    position: absolute;
+    width: 40px;
+    top: 151px;
+    left: 309px;
+    transform: rotate(-7.43deg);
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 800;
+    color: var(--cam-chy);
+    font-size: 140px;
+    letter-spacing: 0;
+    line-height: 168.0px;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-7 {
+    width: 90px;
+    top: 152px;
+    left: 94px;
+    transform: rotate(-3.49deg);
+    font-weight: 800;
+    color: var(--cam-chy);
+    font-size: 140px;
+    line-height: 168.0px;
+    position: absolute;
+    font-family: "Montserrat Alternates", Helvetica;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-8 {
+    position: absolute;
+    width: 90px;
+    top: 149px;
+    left: 217px;
+    transform: rotate(3.98deg);
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 800;
+    color: var(--dng-kh);
+    font-size: 140px;
+    letter-spacing: 0;
+    line-height: 168.0px;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-9 {
+    width: 70px;
+    top: 121px;
+    left: 367px;
+    transform: rotate(-7.93deg);
+    font-weight: 800;
+    color: var(--pink-sn-sa);
+    font-size: 140px;
+    line-height: 168.0px;
+    position: absolute;
+    font-family: "Montserrat Alternates", Helvetica;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-10 {
+    position: absolute;
+    width: 219px;
+    top: 966px;
+    left: 197px;
+    font-family: var(--h3-font-family);
+    font-weight: var(--h3-font-weight);
+    color: var(--xanh-nc-bn);
+    font-size: var(--h3-font-size);
+    letter-spacing: var(--h3-letter-spacing);
+    line-height: var(--h3-line-height);
+    white-space: nowrap;
+    font-style: var(--h3-font-style);
+  }
+  
+  .workshop-event .p {
+    position: absolute;
+    width: 145px;
+    top: 516px;
+    left: 1331px;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 400;
+    color: var(--hong-trng-lm);
+    font-size: 24px;
+    text-align: right;
+    letter-spacing: 0;
+    line-height: 36px;
+  }
+  
+  .workshop-event .rectangle-2 {
+    position: absolute;
+    width: 827px;
+    height: 74px;
+    top: 1182px;
+    left: 713px;
+    background-color: var(--xanh-thin-nhin);
+    border-radius: 9px;
+    transform: rotate(-0.47deg);
+  }
+  
+  .workshop-event .rectangle-3 {
+    position: absolute;
+    width: 575px;
+    height: 75px;
+    top: 1107px;
+    left: 780px;
+    background-color: var(--pink-sn-sa);
+    border-radius: 9px;
+    transform: rotate(-2.48deg);
+  }
+  
+  .workshop-event .text-wrapper-11 {
+    position: absolute;
+    width: 525px;
+    top: 1123px;
+    left: 815px;
+    transform: rotate(-2.48deg);
+    font-family: var(--h4-font-family);
+    font-weight: var(--h4-font-weight);
+    color: var(--hong-trng-lm);
+    font-size: var(--h4-font-size);
+    letter-spacing: var(--h4-letter-spacing);
+    line-height: var(--h4-line-height);
+    white-space: nowrap;
+    font-style: var(--h4-font-style);
+  }
+  
+  .workshop-event .text-wrapper-12 {
+    position: absolute;
+    width: 795px;
+    top: 1199px;
+    left: 741px;
+    transform: rotate(-0.47deg);
+    font-family: var(--h4-font-family);
+    font-weight: var(--h4-font-weight);
+    color: var(--hong-trng-lm);
+    font-size: var(--h4-font-size);
+    letter-spacing: var(--h4-letter-spacing);
+    line-height: var(--h4-line-height);
+    white-space: nowrap;
+    font-style: var(--h4-font-style);
+  }
+  
+  .workshop-event .group-3 {
+    position: absolute;
+    width: 323px;
+    height: 168px;
+    top: 580px;
+    left: 1173px;
+  }
+  
+  .workshop-event .group-4 {
+    position: absolute;
+    width: 128px;
+    height: 33px;
+    top: 62px;
+    left: 0;
+  }
+  
+  .workshop-event .overlap-2 {
+    position: absolute;
+    width: 192px;
+    height: 168px;
+    top: 0;
+    left: 132px;
+  }
+  
+  .workshop-event .images-removebg {
+    position: absolute;
+    width: 168px;
+    height: 168px;
+    top: 0;
+    left: 24px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .frame {
+    display: flex;
+    flex-direction: column;
+    width: 41px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 58px;
+    left: 0;
+  }
+  
+  .workshop-event .text-wrapper-13 {
+    position: relative;
+    align-self: stretch;
+    margin-top: -1.00px;
+    font-family: var(--h6-font-family);
+    font-weight: var(--h6-font-weight);
+    color: #ffffff;
+    font-size: var(--h6-font-size);
+    text-align: center;
+    letter-spacing: var(--h6-letter-spacing);
+    line-height: var(--h6-line-height);
+    font-style: var(--h6-font-style);
+  }
+  
+  .workshop-event .flower {
+    position: absolute;
+    width: 163px;
+    height: 336px;
+    top: 1093px;
+    left: 0;
+  }
+  
+  .workshop-event .flower-2 {
+    position: absolute;
+    width: 149px;
+    height: 308px;
+    top: 1108px;
+    left: 0;
+  }
+  
+  .workshop-event .flower-3 {
+    position: absolute;
+    width: 95px;
+    height: 94px;
+    top: 951px;
+    left: 546px;
+  }
+  
+  .workshop-event .flower-4 {
+    position: absolute;
+    width: 85px;
+    height: 85px;
+    top: 955px;
+    left: 551px;
+  }
+  
+  .workshop-event .flower-5 {
+    position: absolute;
+    width: 57px;
+    height: 56px;
+    top: 969px;
+    left: 565px;
+  }
+  
+  .workshop-event .flower-6 {
+    position: absolute;
+    width: 126px;
+    height: 262px;
+    top: 1129px;
+    left: 0;
+  }
+  
+  .workshop-event .flower-7 {
+    position: absolute;
+    width: 100px;
+    height: 211px;
+    top: 1154px;
+    left: 0;
+  }
+  
+  .workshop-event .flower-8 {
+    position: absolute;
+    width: 71px;
+    height: 152px;
+    top: 1186px;
+    left: 0;
+  }
+  
+  .workshop-event .flower-9 {
+    position: absolute;
+    width: 58px;
+    height: 125px;
+    top: 1199px;
+    left: 0;
+  }
+  
+  .workshop-event .flower-10 {
+    position: absolute;
+    width: 145px;
+    height: 226px;
+    top: 964px;
+    left: 1535px;
+  }
+  
+  .workshop-event .flower-11 {
+    position: absolute;
+    width: 136px;
+    height: 207px;
+    top: 974px;
+    left: 1544px;
+  }
+  
+  .workshop-event .flower-12 {
+    position: absolute;
+    width: 123px;
+    height: 176px;
+    top: 989px;
+    left: 1557px;
+  }
+  
+  .workshop-event .flower-13 {
+    position: absolute;
+    width: 109px;
+    height: 145px;
+    top: 1004px;
+    left: 1571px;
+  }
+  
+  .workshop-event .flower-14 {
+    position: absolute;
+    width: 89px;
+    height: 102px;
+    top: 1026px;
+    left: 1591px;
+  }
+  
+  .workshop-event .flower-15 {
+    position: absolute;
+    width: 76px;
+    height: 84px;
+    top: 1036px;
+    left: 1599px;
+  }
+  
+  .workshop-event .group-5 {
+    position: absolute;
+    width: 220px;
+    height: 100px;
+    top: 1354px;
+    left: 494px;
+  }
+  
+  .workshop-event .text-wrapper-14 {
+    width: 129px;
+    top: 0;
+    left: 67px;
+    font-weight: var(--h3-font-weight);
+    color: var(--xanh-nc-bn);
+    font-size: var(--h3-font-size);
+    line-height: var(--h3-line-height);
+    position: absolute;
+    font-family: var(--h3-font-family);
+    letter-spacing: var(--h3-letter-spacing);
+    white-space: nowrap;
+    font-style: var(--h3-font-style);
+  }
+  
+  .workshop-event .text-wrapper-15 {
+    width: 145px;
+    top: 51px;
+    left: 67px;
+    font-weight: var(--h3-font-weight);
+    color: var(--xanh-nc-bn);
+    font-size: var(--h3-font-size);
+    line-height: var(--h3-line-height);
+    position: absolute;
+    font-family: var(--h3-font-family);
+    letter-spacing: var(--h3-letter-spacing);
+    white-space: nowrap;
+    font-style: var(--h3-font-style);
+  }
+  
+  .workshop-event .text-wrapper-16 {
+    position: absolute;
+    width: 29px;
+    top: 4px;
+    left: 23px;
+    font-family: var(--h6-font-family);
+    font-weight: var(--h6-font-weight);
+    color: var(--xanh-nc-bn);
+    font-size: var(--h6-font-size);
+    letter-spacing: var(--h6-letter-spacing);
+    line-height: var(--h6-line-height);
+    white-space: nowrap;
+    font-style: var(--h6-font-style);
+  }
+  
+  .workshop-event .text-wrapper-17 {
+    position: absolute;
+    width: 53px;
+    top: 56px;
+    left: 0;
+    font-family: var(--h6-font-family);
+    font-weight: var(--h6-font-weight);
+    color: var(--xanh-nc-bn);
+    font-size: var(--h6-font-size);
+    letter-spacing: var(--h6-letter-spacing);
+    line-height: var(--h6-line-height);
+    white-space: nowrap;
+    font-style: var(--h6-font-style);
+  }
+  
+  .workshop-event .group-6 {
+    position: absolute;
+    width: 276px;
+    height: 101px;
+    top: 1354px;
+    left: 198px;
+  }
+  
+  .workshop-event .text-wrapper-18 {
+    width: 123px;
+    top: 0;
+    left: 146px;
+    font-weight: var(--h3-font-weight);
+    color: var(--xanh-nc-bn);
+    font-size: var(--h3-font-size);
+    line-height: var(--h3-line-height);
+    position: absolute;
+    font-family: var(--h3-font-family);
+    letter-spacing: var(--h3-letter-spacing);
+    white-space: nowrap;
+    font-style: var(--h3-font-style);
+  }
+  
+  .workshop-event .text-wrapper-19 {
+    width: 122px;
+    top: 53px;
+    left: 146px;
+    font-weight: var(--h3-font-weight);
+    color: var(--xanh-nc-bn);
+    font-size: var(--h3-font-size);
+    line-height: var(--h3-line-height);
+    position: absolute;
+    font-family: var(--h3-font-family);
+    letter-spacing: var(--h3-letter-spacing);
+    white-space: nowrap;
+    font-style: var(--h3-font-style);
+  }
+  
+  .workshop-event .text-wrapper-20 {
+    position: absolute;
+    width: 129px;
+    top: 4px;
+    left: 0;
+    font-family: var(--h6-font-family);
+    font-weight: var(--h6-font-weight);
+    color: var(--xanh-nc-bn);
+    font-size: var(--h6-font-size);
+    letter-spacing: var(--h6-letter-spacing);
+    line-height: var(--h6-line-height);
+    white-space: nowrap;
+    font-style: var(--h6-font-style);
+  }
+  
+  .workshop-event .group-7 {
+    position: absolute;
+    width: 810px;
+    height: 102px;
+    top: 1356px;
+    left: 767px;
+  }
+  
+  .workshop-event .text-wrapper-21 {
+    position: absolute;
+    width: 33px;
+    top: 4px;
+    left: 0;
+    font-family: var(--h6-font-family);
+    font-weight: var(--h6-font-weight);
+    color: var(--xanh-nc-bn);
+    font-size: var(--h6-font-size);
+    letter-spacing: var(--h6-letter-spacing);
+    line-height: var(--h6-line-height);
+    white-space: nowrap;
+    font-style: var(--h6-font-style);
+  }
+  
+  .workshop-event .text-wrapper-22 {
+    position: absolute;
+    width: 337px;
+    top: 0;
+    left: 46px;
+    font-family: var(--h3-font-family);
+    font-weight: var(--h3-font-weight);
+    color: var(--xanh-nc-bn);
+    font-size: var(--h3-font-size);
+    letter-spacing: var(--h3-letter-spacing);
+    line-height: var(--h3-line-height);
+    white-space: nowrap;
+    font-style: var(--h3-font-style);
+  }
+  
+  .workshop-event .text-wrapper-23 {
+    width: 757px;
+    top: 54px;
+    left: 46px;
+    font-weight: var(--h3-font-weight);
+    color: var(--xanh-nc-bn);
+    font-size: var(--h3-font-size);
+    line-height: var(--h3-line-height);
+    white-space: nowrap;
+    position: absolute;
+    font-family: var(--h3-font-family);
+    letter-spacing: var(--h3-letter-spacing);
+    font-style: var(--h3-font-style);
+  }
+  
+  .workshop-event .text-wrapper-24 {
+    position: absolute;
+    width: 814px;
+    top: 1267px;
+    left: 746px;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 700;
+    color: var(--pink-sn-sa);
+    font-size: 20px;
+    letter-spacing: 0;
+    line-height: 24.0px;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .overlap-3 {
+    position: absolute;
+    width: 1756px;
+    height: 860px;
+    top: 2468px;
+    left: 615px;
+  }
+  
+  .workshop-event .overlap-4 {
+    position: absolute;
+    width: 1724px;
+    height: 849px;
+    top: 0;
+    left: 0;
+  }
+  
+  .workshop-event .overlap-5 {
+    position: absolute;
+    width: 1032px;
+    height: 705px;
+    top: 102px;
+    left: 69px;
+  }
+  
+  .workshop-event .c-u-l-ai-tr-i-nghi-m {
+    position: absolute;
+    width: 730px;
+    top: 0;
+    left: 302px;
+    font-family: var(--h4-font-family);
+    font-weight: var(--h4-font-weight);
+    color: transparent;
+    font-size: var(--h4-font-size);
+    text-align: center;
+    letter-spacing: var(--h4-letter-spacing);
+    line-height: var(--h4-line-height);
+    font-style: var(--h4-font-style);
+  }
+  
+  .workshop-event .span {
+    color: #e56a34;
+    font-family: var(--h4-font-family);
+    font-style: var(--h4-font-style);
+    font-weight: var(--h4-font-weight);
+    letter-spacing: var(--h4-letter-spacing);
+    line-height: var(--h4-line-height);
+    font-size: var(--h4-font-size);
+  }
+  
+  .workshop-event .text-wrapper-25 {
+    color: #231f20;
+    font-family: var(--h4-font-family);
+    font-style: var(--h4-font-style);
+    font-weight: var(--h4-font-weight);
+    letter-spacing: var(--h4-letter-spacing);
+    line-height: var(--h4-line-height);
+    font-size: var(--h4-font-size);
+  }
+  
+  .workshop-event .text-wrapper-26 {
+    color: #f1ce52;
+    font-family: var(--h4-font-family);
+    font-style: var(--h4-font-style);
+    font-weight: var(--h4-font-weight);
+    letter-spacing: var(--h4-letter-spacing);
+    line-height: var(--h4-line-height);
+    font-size: var(--h4-font-size);
+  }
+  
+  .workshop-event .text-wrapper-27 {
+    color: #2b643a;
+    font-family: var(--h4-font-family);
+    font-style: var(--h4-font-style);
+    font-weight: var(--h4-font-weight);
+    letter-spacing: var(--h4-letter-spacing);
+    line-height: var(--h4-line-height);
+    font-size: var(--h4-font-size);
+  }
+  
+  .workshop-event .text-wrapper-28 {
+    color: #622363;
+    font-family: var(--h4-font-family);
+    font-style: var(--h4-font-style);
+    font-weight: var(--h4-font-weight);
+    letter-spacing: var(--h4-letter-spacing);
+    line-height: var(--h4-line-height);
+    font-size: var(--h4-font-size);
+  }
+  
+  .workshop-event .text-wrapper-29 {
+    color: #d62d63;
+    font-family: var(--h4-font-family);
+    font-style: var(--h4-font-style);
+    font-weight: var(--h4-font-weight);
+    letter-spacing: var(--h4-letter-spacing);
+    line-height: var(--h4-line-height);
+    font-size: var(--h4-font-size);
+  }
+  
+  .workshop-event .group-8 {
+    position: absolute;
+    width: 326px;
+    height: 593px;
+    top: 26px;
+    left: 0;
+  }
+  
+  .workshop-event .text-wrapper-30 {
+    position: absolute;
+    width: 227px;
+    top: 538px;
+    left: 192px;
+    transform: rotate(-48.55deg);
+    font-family: var(--h1-font-family);
+    font-weight: var(--h1-font-weight);
+    color: var(--xanh-thin-nhin);
+    font-size: var(--h1-font-size);
+    text-align: center;
+    letter-spacing: var(--h1-letter-spacing);
+    line-height: var(--h1-line-height);
+    white-space: nowrap;
+    font-style: var(--h1-font-style);
+  }
+  
+  .workshop-event .text-wrapper-31 {
+    position: absolute;
+    width: 215px;
+    top: 373px;
+    left: 307px;
+    transform: rotate(-45.38deg);
+    font-family: var(--h1-font-family);
+    font-weight: var(--h1-font-weight);
+    color: var(--xanh-thin-nhin);
+    font-size: var(--h1-font-size);
+    text-align: center;
+    letter-spacing: var(--h1-letter-spacing);
+    line-height: var(--h1-line-height);
+    white-space: nowrap;
+    font-style: var(--h1-font-style);
+  }
+  
+  .workshop-event .overlap-6 {
+    position: absolute;
+    width: 1457px;
+    height: 558px;
+    top: 0;
+    left: 267px;
+  }
+  
+  .workshop-event .text-wrapper-32 {
+    position: absolute;
+    width: 984px;
+    top: 0;
+    left: 0;
+    font-family: var(--h1-font-family);
+    font-weight: var(--h1-font-weight);
+    color: var(--xanh-nc-bn);
+    font-size: var(--h1-font-size);
+    text-align: center;
+    letter-spacing: var(--h1-letter-spacing);
+    line-height: var(--h1-line-height);
+    white-space: nowrap;
+    font-style: var(--h1-font-style);
+  }
+  
+  .workshop-event .blob-4 {
+    position: absolute;
+    width: 552px;
+    height: 529px;
+    top: 28px;
+    left: 905px;
+  }
+  
+  .workshop-event .blob-5 {
+    position: absolute;
+    width: 494px;
+    height: 505px;
+    top: 39px;
+    left: 936px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .text-wrapper-33 {
+    position: absolute;
+    width: 180px;
+    top: 434px;
+    left: 750px;
+    transform: rotate(42.38deg);
+    font-family: var(--h1-font-family);
+    font-weight: var(--h1-font-weight);
+    color: var(--dng-kh);
+    font-size: var(--h1-font-size);
+    text-align: center;
+    letter-spacing: var(--h1-letter-spacing);
+    line-height: var(--h1-line-height);
+    white-space: nowrap;
+    font-style: var(--h1-font-style);
+  }
+  
+  .workshop-event .text-wrapper-34 {
+    width: 435px;
+    top: 674px;
+    left: 590px;
+    font-weight: 400;
+    color: var(--hong-trng-lm);
+    font-size: 24px;
+    line-height: 45px;
+    position: absolute;
+    font-family: "Montserrat Alternates", Helvetica;
+    letter-spacing: 0;
+  }
+  
+  .workshop-event .overlap-7 {
+    position: absolute;
+    width: 95px;
+    height: 94px;
+    top: 517px;
+    left: 753px;
+    background-image: url(https://c.animaapp.com/g3CZEndQ/img/flower-4.svg);
+    background-size: 100% 100%;
+  }
+  
+  .workshop-event .flower-16 {
+    position: absolute;
+    width: 85px;
+    height: 85px;
+    top: 4px;
+    left: 5px;
+  }
+  
+  .workshop-event .flower-17 {
+    position: absolute;
+    width: 57px;
+    height: 56px;
+    top: 18px;
+    left: 19px;
+  }
+  
+  .workshop-event .overlap-8 {
+    position: absolute;
+    width: 335px;
+    height: 178px;
+    top: 504px;
+    left: 1161px;
+  }
+  
+  .workshop-event .text-wrapper-35 {
+    width: 189px;
+    top: 102px;
+    left: 145px;
+    transform: rotate(-1.49deg);
+    font-weight: var(--h1-font-weight);
+    color: var(--xanh-nc-bn);
+    font-size: var(--h1-font-size);
+    text-align: center;
+    line-height: var(--h1-line-height);
+    position: absolute;
+    font-family: var(--h1-font-family);
+    letter-spacing: var(--h1-letter-spacing);
+    white-space: nowrap;
+    font-style: var(--h1-font-style);
+  }
+  
+  .workshop-event .text-wrapper-36 {
+    position: absolute;
+    width: 182px;
+    top: 59px;
+    left: -9px;
+    transform: rotate(49.78deg);
+    font-family: var(--h1-font-family);
+    font-weight: var(--h1-font-weight);
+    color: var(--dng-kh);
+    font-size: var(--h1-font-size);
+    text-align: center;
+    letter-spacing: var(--h1-letter-spacing);
+    line-height: var(--h1-line-height);
+    white-space: nowrap;
+    font-style: var(--h1-font-style);
+  }
+  
+  .workshop-event .text-wrapper-37 {
+    position: absolute;
+    width: 253px;
+    top: 340px;
+    left: 772px;
+    transform: rotate(14.35deg);
+    font-family: var(--h1-font-family);
+    font-weight: var(--h1-font-weight);
+    color: var(--cam-chy);
+    font-size: var(--h1-font-size);
+    text-align: center;
+    letter-spacing: var(--h1-letter-spacing);
+    line-height: var(--h1-line-height);
+    white-space: nowrap;
+    font-style: var(--h1-font-style);
+  }
+  
+  .workshop-event .text-wrapper-38 {
+    width: 174px;
+    top: 356px;
+    left: 572px;
+    transform: rotate(-20.58deg);
+    font-weight: var(--h1-font-weight);
+    color: var(--cam-chy);
+    font-size: var(--h1-font-size);
+    text-align: center;
+    line-height: var(--h1-line-height);
+    position: absolute;
+    font-family: var(--h1-font-family);
+    letter-spacing: var(--h1-letter-spacing);
+    white-space: nowrap;
+    font-style: var(--h1-font-style);
+  }
+  
+  .workshop-event .text-wrapper-39 {
+    width: 183px;
+    top: 750px;
+    left: 4px;
+    transform: rotate(-6.29deg);
+    font-weight: var(--h1-font-weight);
+    color: var(--xanh-thin-nhin);
+    font-size: var(--h1-font-size);
+    text-align: center;
+    line-height: var(--h1-line-height);
+    position: absolute;
+    font-family: var(--h1-font-family);
+    letter-spacing: var(--h1-letter-spacing);
+    white-space: nowrap;
+    font-style: var(--h1-font-style);
+  }
+  
+  .workshop-event .text-wrapper-40 {
+    position: absolute;
+    width: 85px;
+    top: 748px;
+    left: 195px;
+    transform: rotate(-1.57deg);
+    font-family: var(--h1-font-family);
+    font-weight: var(--h1-font-weight);
+    color: var(--xanh-thin-nhin);
+    font-size: var(--h1-font-size);
+    text-align: center;
+    letter-spacing: var(--h1-letter-spacing);
+    line-height: var(--h1-line-height);
+    white-space: nowrap;
+    font-style: var(--h1-font-style);
+  }
+  
+  .workshop-event .text-wrapper-41 {
+    position: absolute;
+    width: 187px;
+    top: 730px;
+    left: 1599px;
+    transform: rotate(68.32deg);
+    font-family: var(--h1-font-family);
+    font-weight: var(--h1-font-weight);
+    color: var(--pink-sn-sa);
+    font-size: var(--h1-font-size);
+    text-align: center;
+    letter-spacing: var(--h1-letter-spacing);
+    line-height: var(--h1-line-height);
+    white-space: nowrap;
+    font-style: var(--h1-font-style);
+  }
+  
+  .workshop-event .text-wrapper-42 {
+    position: absolute;
+    width: 152px;
+    top: 621px;
+    left: 1497px;
+    transform: rotate(19.11deg);
+    font-family: var(--h1-font-family);
+    font-weight: var(--h1-font-weight);
+    color: var(--xanh-nc-bn);
+    font-size: var(--h1-font-size);
+    text-align: center;
+    letter-spacing: var(--h1-letter-spacing);
+    line-height: var(--h1-line-height);
+    white-space: nowrap;
+    font-style: var(--h1-font-style);
+  }
+  
+  .workshop-event .text-wrapper-43 {
+    position: absolute;
+    width: 733px;
+    top: 3347px;
+    left: 879px;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 400;
+    color: var(--hong-trng-lm);
+    font-size: 24px;
+    letter-spacing: 0;
+    line-height: 45px;
+  }
+  
+  .workshop-event .overlap-group-wrapper {
+    position: absolute;
+    width: 552px;
+    height: 47px;
+    top: 2160px;
+    left: 1663px;
+  }
+  
+  .workshop-event .overlap-9 {
+    position: relative;
+    width: 550px;
+    height: 47px;
+    background-color: var(--dng-kh);
+    border-radius: 24px;
+    border: 5px solid;
+    border-color: var(--pink-sn-sa);
+  }
+  
+  .workshop-event .text-wrapper-44 {
+    position: absolute;
+    width: 471px;
+    top: 7px;
+    left: 15px;
+    font-family: var(--h6-font-family);
+    font-weight: var(--h6-font-weight);
+    color: var(--tm-mng-mer);
+    font-size: var(--h6-font-size);
+    letter-spacing: var(--h6-letter-spacing);
+    line-height: var(--h6-line-height);
+    white-space: nowrap;
+    font-style: var(--h6-font-style);
+  }
+  
+  .workshop-event .flower-18 {
+    position: absolute;
+    width: 28px;
+    height: 28px;
+    top: 5px;
+    left: 496px;
+  }
+  
+  .workshop-event .image {
+    width: 55px;
+    top: 2326px;
+    left: 1248px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-2 {
+    width: 55px;
+    top: 2326px;
+    left: 1357px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-3 {
+    width: 55px;
+    top: 2326px;
+    left: 1467px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-4 {
+    width: 55px;
+    top: 2326px;
+    left: 1138px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-5 {
+    width: 55px;
+    top: 2271px;
+    left: 1193px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-6 {
+    width: 55px;
+    top: 2271px;
+    left: 1083px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-7 {
+    width: 55px;
+    top: 2271px;
+    left: 1302px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .overlap-10 {
+    position: absolute;
+    width: 316px;
+    height: 460px;
+    top: 3499px;
+    left: 1040px;
+  }
+  
+  .workshop-event .door {
+    position: absolute;
+    width: 314px;
+    height: 460px;
+    top: 0;
+    left: 2px;
+  }
+  
+  .workshop-event .door-2 {
+    position: absolute;
+    width: 265px;
+    height: 391px;
+    top: 18px;
+    left: 26px;
+  }
+  
+  .workshop-event .door-3 {
+    position: absolute;
+    width: 265px;
+    height: 57px;
+    top: 354px;
+    left: 16px;
+  }
+  
+  .workshop-event .rectangle-4 {
+    position: absolute;
+    width: 298px;
+    height: 81px;
+    top: 343px;
+    left: 0;
+    background-color: var(--hong-trng-lm);
+  }
+  
+  .workshop-event .text-wrapper-45 {
+    width: 265px;
+    top: 368px;
+    left: 26px;
+    font-weight: var(--h5-font-weight);
+    color: var(--cam-chy);
+    font-size: var(--h5-font-size);
+    text-align: center;
+    line-height: var(--h5-line-height);
+    position: absolute;
+    font-family: var(--h5-font-family);
+    letter-spacing: var(--h5-letter-spacing);
+    white-space: nowrap;
+    font-style: var(--h5-font-style);
+  }
+  
+  .workshop-event .overlap-11 {
+    position: absolute;
+    width: 316px;
+    height: 459px;
+    top: 3499px;
+    left: 1361px;
+  }
+  
+  .workshop-event .door-4 {
+    position: absolute;
+    width: 314px;
+    height: 459px;
+    top: 0;
+    left: 0;
+  }
+  
+  .workshop-event .door-5 {
+    position: absolute;
+    width: 265px;
+    height: 391px;
+    top: 18px;
+    left: 34px;
+  }
+  
+  .workshop-event .door-6 {
+    position: absolute;
+    width: 265px;
+    height: 58px;
+    top: 354px;
+    left: 24px;
+  }
+  
+  .workshop-event .rectangle-5 {
+    position: absolute;
+    width: 298px;
+    height: 81px;
+    top: 343px;
+    left: 18px;
+    background-color: var(--hong-trng-lm);
+  }
+  
+  .workshop-event .text-wrapper-46 {
+    width: 265px;
+    top: 368px;
+    left: 34px;
+    font-weight: var(--h5-font-weight);
+    color: var(--tm-mng-mer);
+    font-size: var(--h5-font-size);
+    text-align: center;
+    line-height: var(--h5-line-height);
+    position: absolute;
+    font-family: var(--h5-font-family);
+    letter-spacing: var(--h5-letter-spacing);
+    white-space: nowrap;
+    font-style: var(--h5-font-style);
+  }
+  
+  .workshop-event .overlap-12 {
+    position: absolute;
+    width: 322px;
+    height: 480px;
+    top: 3498px;
+    left: 1696px;
+    background-image: url(https://c.animaapp.com/g3CZEndQ/img/door-2.svg);
+    background-size: 100% 100%;
+  }
+  
+  .workshop-event .door-7 {
+    position: absolute;
+    width: 265px;
+    height: 391px;
+    top: 18px;
+    left: 28px;
+  }
+  
+  .workshop-event .door-8 {
+    position: absolute;
+    width: 265px;
+    height: 57px;
+    top: 353px;
+    left: 18px;
+  }
+  
+  .workshop-event .rectangle-6 {
+    position: absolute;
+    width: 298px;
+    height: 81px;
+    top: 344px;
+    left: 12px;
+    background-color: var(--hong-trng-lm);
+  }
+  
+  .workshop-event .text-wrapper-47 {
+    width: 265px;
+    top: 367px;
+    left: 28px;
+    font-weight: var(--h5-font-weight);
+    color: var(--xanh-nc-bn);
+    font-size: var(--h5-font-size);
+    text-align: center;
+    line-height: var(--h5-line-height);
+    position: absolute;
+    font-family: var(--h5-font-family);
+    letter-spacing: var(--h5-letter-spacing);
+    white-space: nowrap;
+    font-style: var(--h5-font-style);
+  }
+  
+  .workshop-event .overlap-13 {
+    position: absolute;
+    width: 440px;
+    height: 631px;
+    top: 3328px;
+    left: 2028px;
+  }
+  
+  .workshop-event .overlap-14 {
+    position: absolute;
+    width: 440px;
+    height: 556px;
+    top: 75px;
+    left: 0;
+  }
+  
+  .workshop-event .door-9 {
+    position: absolute;
+    width: 314px;
+    height: 462px;
+    top: 95px;
+    left: 0;
+  }
+  
+  .workshop-event .door-10 {
+    position: absolute;
+    width: 264px;
+    height: 391px;
+    top: 112px;
+    left: 25px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .door-11 {
+    position: absolute;
+    width: 264px;
+    height: 57px;
+    top: 447px;
+    left: 15px;
+  }
+  
+  .workshop-event .rectangle-7 {
+    position: absolute;
+    width: 298px;
+    height: 81px;
+    top: 438px;
+    left: 8px;
+    background-color: var(--hong-trng-lm);
+  }
+  
+  .workshop-event .text-wrapper-48 {
+    position: absolute;
+    width: 262px;
+    top: 462px;
+    left: 26px;
+    font-family: var(--h5-font-family);
+    font-weight: var(--h5-font-weight);
+    color: var(--pink-sn-sa);
+    font-size: var(--h5-font-size);
+    text-align: center;
+    letter-spacing: var(--h5-letter-spacing);
+    line-height: var(--h5-line-height);
+    white-space: nowrap;
+    font-style: var(--h5-font-style);
+  }
+  
+  .workshop-event .text-wrapper-49 {
+    position: absolute;
+    width: 128px;
+    top: 34px;
+    left: 307px;
+    transform: rotate(40.05deg);
+    font-family: var(--h1-font-family);
+    font-weight: var(--h1-font-weight);
+    color: var(--pink-sn-sa);
+    font-size: var(--h1-font-size);
+    text-align: center;
+    letter-spacing: var(--h1-letter-spacing);
+    line-height: var(--h1-line-height);
+    white-space: nowrap;
+    font-style: var(--h1-font-style);
+  }
+  
+  .workshop-event .text-wrapper-50 {
+    position: absolute;
+    width: 92px;
+    top: 24px;
+    left: 271px;
+    transform: rotate(56.57deg);
+    font-family: var(--h1-font-family);
+    font-weight: var(--h1-font-weight);
+    color: var(--pink-sn-sa);
+    font-size: var(--h1-font-size);
+    text-align: center;
+    letter-spacing: var(--h1-letter-spacing);
+    line-height: var(--h1-line-height);
+    white-space: nowrap;
+    font-style: var(--h1-font-style);
+  }
+  
+  .workshop-event .image-8 {
+    width: 55px;
+    top: 2271px;
+    left: 1412px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-9 {
+    width: 55px;
+    top: 2326px;
+    left: 809px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-10 {
+    width: 55px;
+    top: 2326px;
+    left: 919px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-11 {
+    width: 55px;
+    top: 2326px;
+    left: 1028px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-12 {
+    width: 55px;
+    top: 2326px;
+    left: 700px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-13 {
+    width: 55px;
+    top: 2271px;
+    left: 754px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-14 {
+    width: 16px;
+    top: 2271px;
+    left: 684px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-15 {
+    width: 55px;
+    top: 2271px;
+    left: 864px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-16 {
+    width: 55px;
+    top: 2271px;
+    left: 974px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .overlap-15 {
+    position: absolute;
+    width: 320px;
+    height: 474px;
+    top: 3499px;
+    left: 710px;
+    background-image: url(https://c.animaapp.com/g3CZEndQ/img/door-8.svg);
+    background-size: 100% 100%;
+  }
+  
+  .workshop-event .door-12 {
+    position: absolute;
+    width: 264px;
+    height: 391px;
+    top: 18px;
+    left: 28px;
+  }
+  
+  .workshop-event .door-13 {
+    position: absolute;
+    width: 264px;
+    height: 57px;
+    top: 354px;
+    left: 18px;
+  }
+  
+  .workshop-event .rectangle-8 {
+    position: absolute;
+    width: 291px;
+    height: 81px;
+    top: 343px;
+    left: 18px;
+    background-color: var(--hong-trng-lm);
+  }
+  
+  .workshop-event .text-wrapper-51 {
+    position: absolute;
+    width: 300px;
+    top: 365px;
+    left: 11px;
+    font-family: var(--h5-font-family);
+    font-weight: var(--h5-font-weight);
+    color: var(--xanh-thin-nhin);
+    font-size: var(--h5-font-size);
+    text-align: center;
+    letter-spacing: var(--h5-letter-spacing);
+    line-height: var(--h5-line-height);
+    white-space: nowrap;
+    font-style: var(--h5-font-style);
+  }
+  
+  .workshop-event .image-17 {
+    width: 55px;
+    top: 2326px;
+    left: 2124px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-18 {
+    width: 55px;
+    top: 2326px;
+    left: 2234px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-19 {
+    width: 20px;
+    top: 2326px;
+    left: 2344px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-20 {
+    width: 55px;
+    top: 2326px;
+    left: 2015px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-21 {
+    width: 55px;
+    top: 2271px;
+    left: 2070px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-22 {
+    width: 55px;
+    top: 2271px;
+    left: 1960px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-23 {
+    width: 55px;
+    top: 2271px;
+    left: 2179px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-24 {
+    width: 55px;
+    top: 2271px;
+    left: 2289px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-25 {
+    width: 55px;
+    top: 2326px;
+    left: 1686px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-26 {
+    width: 55px;
+    top: 2326px;
+    left: 1796px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-27 {
+    width: 55px;
+    top: 2326px;
+    left: 1905px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-28 {
+    width: 55px;
+    top: 2326px;
+    left: 1576px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-29 {
+    width: 55px;
+    top: 2271px;
+    left: 1631px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-30 {
+    width: 55px;
+    top: 2271px;
+    left: 1522px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-31 {
+    width: 55px;
+    top: 2271px;
+    left: 1741px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .image-32 {
+    width: 55px;
+    top: 2271px;
+    left: 1850px;
+    position: absolute;
+    height: 55px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .component {
+    position: absolute;
+    width: 1680px;
+    height: 260px;
+    top: 4008px;
+    left: 684px;
+    background-color: var(--xm-thi-ni);
+  }
+  
+  .workshop-event .images {
+    position: absolute;
+    width: 218px;
+    height: 131px;
+    top: 66px;
+    left: 57px;
+    object-fit: cover;
+  }
+  
+  .workshop-event .group-9 {
+    position: absolute;
+    width: 184px;
+    height: 151px;
+    top: 29px;
+    left: 733px;
+  }
+  
+  .workshop-event .text-wrapper-52 {
+    width: 91px;
+    top: 133px;
+    left: 0;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    line-height: normal;
+    position: absolute;
+    font-family: "Montserrat Alternates", Helvetica;
+    letter-spacing: 0;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-53 {
+    position: absolute;
+    width: 156px;
+    top: 81px;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-54 {
+    position: absolute;
+    width: 86px;
+    top: 107px;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-55 {
+    position: absolute;
+    width: 172px;
+    top: 29px;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-56 {
+    position: absolute;
+    width: 124px;
+    top: 0;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 700;
+    color: var(--dng-kh);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-57 {
+    width: 86px;
+    top: 55px;
+    font-weight: 300;
+    color: #ffffff;
+    position: absolute;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .group-10 {
+    position: absolute;
+    width: 559px;
+    height: 71px;
+    top: 29px;
+    left: 1052px;
+  }
+  
+  .workshop-event .text-wrapper-58 {
+    width: 146px;
+    top: 0;
+    font-weight: 700;
+    color: var(--dng-kh);
+    position: absolute;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .chi-nh-nh-s-i-g-n {
+    position: absolute;
+    width: 508px;
+    top: 24px;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-59 {
+    font-weight: 700;
+  }
+  
+  .workshop-event .text-wrapper-60 {
+    font-weight: 300;
+  }
+  
+  .workshop-event .chi-nh-nh-h-n-i-s {
+    position: absolute;
+    width: 553px;
+    top: 53px;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .group-11 {
+    position: absolute;
+    width: 254px;
+    height: 198px;
+    top: 29px;
+    left: 362px;
+  }
+  
+  .workshop-event .text-wrapper-61 {
+    position: absolute;
+    width: 161px;
+    top: 129px;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-62 {
+    position: absolute;
+    width: 214px;
+    top: 100px;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-63 {
+    position: absolute;
+    width: 207px;
+    top: 69px;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .CH-m-s-c-KH-CH-h-NG {
+    position: absolute;
+    width: 240px;
+    top: 0;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 700;
+    color: var(--dng-kh);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .workshop-event .text-wrapper-64 {
+    position: absolute;
+    width: 161px;
+    top: 41px;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-65 {
+    position: absolute;
+    width: 223px;
+    top: 154px;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-66 {
+    position: absolute;
+    width: 185px;
+    top: 180px;
+    left: 1px;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .b-n-TIN-ng-k-nh-n-c {
+    position: absolute;
+    width: 495px;
+    top: 128px;
+    left: 1052px;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+  }
+  
+  .workshop-event .text-wrapper-67 {
+    font-weight: 700;
+    color: #f1ce52;
+  }
+  
+  .workshop-event .text-wrapper-68 {
+    color: #ffffff;
+    line-height: 25px;
+  }
+  
+  .workshop-event .mithosis {
+    position: absolute;
+    width: 197px;
+    height: 106px;
+    top: -2985px;
+    left: -7415px;
+  }
+  
+  .workshop-event .div-wrapper {
+    position: absolute;
+    width: 1680px;
+    height: 120px;
+    top: 656px;
+    left: 684px;
+    background-color: #ffffff;
+  }
+  
+  .workshop-event .overlap-16 {
+    position: relative;
+    width: 1323px;
+    height: 78px;
+    top: 24px;
+    left: 179px;
+  }
+  
+  .workshop-event .group-12 {
+    position: absolute;
+    width: 1323px;
+    height: 78px;
+    top: 0;
+    left: 0;
+  }
+  
+  .workshop-event .overlap-17 {
+    position: absolute;
+    width: 825px;
+    height: 78px;
+    top: 0;
+    left: 0;
+  }
+  
+  .workshop-event .navbar {
+    position: absolute;
+    width: 588px;
+    height: 18px;
+    top: 26px;
+    left: 237px;
+  }
+  
+  .workshop-event .text-wrapper-69 {
+    position: absolute;
+    width: 103px;
+    top: 0;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 700;
+    color: var(--en-50);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 19.2px;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-70 {
+    position: absolute;
+    width: 96px;
+    top: 0;
+    left: 118px;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 700;
+    color: var(--en-50);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 19.2px;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-71 {
+    position: absolute;
+    width: 105px;
+    top: 0;
+    left: 229px;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 700;
+    color: var(--en-50);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 19.2px;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-72 {
+    width: 166px;
+    left: 349px;
+    color: var(--xm-thi-ni);
+    position: absolute;
+    top: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 19.2px;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-73 {
+    width: 48px;
+    left: 530px;
+    color: var(--en-50);
+    position: absolute;
+    top: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 700;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 19.2px;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .HC-showcase {
+    position: absolute;
+    width: 237px;
+    height: 78px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .workshop-event .group-13 {
+    position: absolute;
+    width: 173px;
+    height: 35px;
+    top: 17px;
+    left: 1152px;
+  }
+  
+  .workshop-event .group-14 {
+    position: absolute;
+    width: 95px;
+    height: 35px;
+    top: 0;
+    left: 78px;
+  }
+  
+  .workshop-event .overlap-group-3 {
+    position: relative;
+    width: 93px;
+    height: 35px;
+    background-color: var(--pink-sn-sa);
+    border-radius: 100px;
+    box-shadow:
+      0px 1px 2px #42001729, 0px 3px 3px #42001724, 0px 7px 4px #42001714, 0px 13px 5px #42001705, 0px 21px 6px transparent;
+  }
+  
+  .workshop-event .text-wrapper-74 {
+    position: absolute;
+    width: 81px;
+    top: 8px;
+    left: 12px;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 700;
+    color: var(--hong-trng-lm);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 19.2px;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .text-wrapper-75 {
+    position: absolute;
+    width: 58px;
+    top: 7px;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 700;
+    color: var(--pink-sn-sa);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 19.2px;
+    white-space: nowrap;
+  }
+  
+  .workshop-event .group-15 {
+    position: absolute;
+    width: 237px;
+    height: 43px;
+    top: 13px;
+    left: 865px;
+  }
+  
+  .workshop-event .rectangle-9 {
+    position: absolute;
+    width: 186px;
+    height: 35px;
+    top: 5px;
+    left: 0;
+    background-color: var(--en-25);
+    border-radius: 100px;
+  }
+  
+  .workshop-event .basket {
+    position: absolute;
+    width: 39px;
+    height: 43px;
+    top: 0;
+    left: 198px;
+  }
+  
+  .workshop-event .group-16 {
+    position: absolute;
+    width: 22px;
+    height: 29px;
+    top: 21px;
+    left: 875px;
+    background-image: url(https://c.animaapp.com/g3CZEndQ/img/search@2x.png);
+    background-size: 100% 100%;
+  }
+  

@@ -1,0 +1,1926 @@
+.INSTALLATION {
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .INSTALLATION .div {
+    background-color: #ffffff;
+    overflow: hidden;
+    width: 1680px;
+    height: 4180.75px;
+    position: relative;
+  }
+  
+  .INSTALLATION .overlap {
+    position: absolute;
+    width: 3260px;
+    height: 5123px;
+    top: -167px;
+    left: -709px;
+  }
+  
+  .INSTALLATION .rectangle {
+    position: absolute;
+    width: 3260px;
+    height: 4926px;
+    top: 197px;
+    left: 0;
+    background-color: var(--hong-trng-lm);
+  }
+  
+  .INSTALLATION .rectangle-2 {
+    position: absolute;
+    width: 1920px;
+    height: 120px;
+    top: 159px;
+    left: 709px;
+    background-color: #ffffff;
+  }
+  
+  .INSTALLATION .group {
+    position: absolute;
+    width: 2556px;
+    height: 4356px;
+    top: 0;
+    left: 489px;
+  }
+  
+  .INSTALLATION .overlap-group {
+    position: absolute;
+    width: 1967px;
+    height: 2691px;
+    top: 166px;
+    left: 75px;
+  }
+  
+  .INSTALLATION .overlap-2 {
+    position: absolute;
+    width: 1967px;
+    height: 2691px;
+    top: 0;
+    left: 0;
+  }
+  
+  .INSTALLATION .blob {
+    position: absolute;
+    width: 1680px;
+    height: 892px;
+    top: 1px;
+    left: 145px;
+  }
+  
+  .INSTALLATION .img {
+    height: 872px;
+    position: absolute;
+    width: 1680px;
+    top: 1px;
+    left: 145px;
+  }
+  
+  .INSTALLATION .blob-2 {
+    height: 846px;
+    object-fit: cover;
+    position: absolute;
+    width: 1680px;
+    top: 1px;
+    left: 145px;
+  }
+  
+  .INSTALLATION .blob-3 {
+    position: absolute;
+    width: 1680px;
+    height: 846px;
+    top: 1px;
+    left: 145px;
+  }
+  
+  .INSTALLATION .component {
+    position: absolute;
+    width: 1683px;
+    height: 105px;
+    top: 0;
+    left: 141px;
+    background-color: #ffffff;
+  }
+  
+  .INSTALLATION .overlap-3 {
+    position: relative;
+    width: 1325px;
+    height: 68px;
+    top: 21px;
+    left: 179px;
+  }
+  
+  .INSTALLATION .group-2 {
+    position: absolute;
+    width: 1325px;
+    height: 68px;
+    top: 0;
+    left: 0;
+  }
+  
+  .INSTALLATION .overlap-4 {
+    position: absolute;
+    width: 826px;
+    height: 68px;
+    top: 0;
+    left: 0;
+  }
+  
+  .INSTALLATION .group-3 {
+    position: absolute;
+    width: 589px;
+    height: 16px;
+    top: 23px;
+    left: 237px;
+  }
+  
+  .INSTALLATION .text-wrapper {
+    position: absolute;
+    width: 103px;
+    top: 0;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 700;
+    color: var(--en-50);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 19.2px;
+    white-space: nowrap;
+  }
+  
+  .INSTALLATION .text-wrapper-2 {
+    position: absolute;
+    width: 96px;
+    top: 0;
+    left: 118px;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 700;
+    color: var(--en-50);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 19.2px;
+    white-space: nowrap;
+  }
+  
+  .INSTALLATION .text-wrapper-3 {
+    position: absolute;
+    width: 105px;
+    top: 0;
+    left: 229px;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 700;
+    color: var(--xm-thi-ni);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 19.2px;
+    white-space: nowrap;
+  }
+  
+  .INSTALLATION .text-wrapper-4 {
+    position: absolute;
+    width: 166px;
+    top: 0;
+    left: 350px;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 700;
+    color: var(--en-50);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 19.2px;
+    white-space: nowrap;
+  }
+  
+  .INSTALLATION .text-wrapper-5 {
+    position: absolute;
+    width: 48px;
+    top: 0;
+    left: 531px;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 700;
+    color: var(--en-50);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 19.2px;
+    white-space: nowrap;
+  }
+  
+  .INSTALLATION .HC-showcase {
+    position: absolute;
+    width: 238px;
+    height: 68px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .group-4 {
+    position: absolute;
+    width: 173px;
+    height: 31px;
+    top: 15px;
+    left: 1154px;
+  }
+  
+  .INSTALLATION .overlap-group-wrapper {
+    position: absolute;
+    width: 95px;
+    height: 31px;
+    top: 0;
+    left: 78px;
+  }
+  
+  .INSTALLATION .div-wrapper {
+    position: relative;
+    width: 93px;
+    height: 31px;
+    background-color: var(--pink-sn-sa);
+    border-radius: 100px;
+    box-shadow:
+      0px 1px 2px #42001729, 0px 3px 3px #42001724, 0px 7px 4px #42001714, 0px 13px 5px #42001705, 0px 21px 6px transparent;
+  }
+  
+  .INSTALLATION .text-wrapper-6 {
+    position: absolute;
+    width: 81px;
+    top: 7px;
+    left: 12px;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 700;
+    color: var(--hong-trng-lm);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 19.2px;
+    white-space: nowrap;
+  }
+  
+  .INSTALLATION .text-wrapper-7 {
+    position: absolute;
+    width: 58px;
+    top: 6px;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 700;
+    color: var(--pink-sn-sa);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 19.2px;
+    white-space: nowrap;
+  }
+  
+  .INSTALLATION .group-5 {
+    position: absolute;
+    width: 238px;
+    height: 38px;
+    top: 11px;
+    left: 867px;
+  }
+  
+  .INSTALLATION .rectangle-3 {
+    position: absolute;
+    width: 187px;
+    height: 31px;
+    top: 4px;
+    left: 0;
+    background-color: var(--en-25);
+    border-radius: 100px;
+  }
+  
+  .INSTALLATION .basket {
+    position: absolute;
+    width: 39px;
+    height: 38px;
+    top: 0;
+    left: 198px;
+  }
+  
+  .INSTALLATION .group-6 {
+    position: absolute;
+    width: 22px;
+    height: 26px;
+    top: 18px;
+    left: 877px;
+    background-image: url(https://c.animaapp.com/l8dfgLp4/img/search@2x.png);
+    background-size: 100% 100%;
+  }
+  
+  .INSTALLATION .text-wrapper-8 {
+    position: absolute;
+    width: 381px;
+    top: 165px;
+    left: 282px;
+    font-family: var(--h4-font-family);
+    font-weight: var(--h4-font-weight);
+    color: #ffffff;
+    font-size: var(--h4-font-size);
+    letter-spacing: var(--h4-letter-spacing);
+    line-height: var(--h4-line-height);
+    white-space: nowrap;
+    font-style: var(--h4-font-style);
+  }
+  
+  .INSTALLATION .group-wrapper {
+    position: absolute;
+    width: 452px;
+    height: 68px;
+    top: 162px;
+    left: 1271px;
+  }
+  
+  .INSTALLATION .group-7 {
+    position: relative;
+    width: 454px;
+    height: 68px;
+  }
+  
+  .INSTALLATION .p {
+    position: absolute;
+    width: 452px;
+    top: 0;
+    left: 0;
+    font-family: var(--h4-font-family);
+    font-weight: var(--h4-font-weight);
+    color: #ffffff;
+    font-size: var(--h4-font-size);
+    letter-spacing: var(--h4-letter-spacing);
+    line-height: var(--h4-line-height);
+    font-style: var(--h4-font-style);
+  }
+  
+  .INSTALLATION .group-8 {
+    position: absolute;
+    width: 711px;
+    height: 86px;
+    top: 969px;
+    left: 634px;
+  }
+  
+  .INSTALLATION .t-NH-y-u-c-NGH-a-l-g {
+    position: absolute;
+    width: 707px;
+    top: 0;
+    left: 0;
+    font-family: var(--h3-font-family);
+    font-weight: var(--h3-font-weight);
+    color: transparent;
+    font-size: var(--h3-font-size);
+    letter-spacing: var(--h3-letter-spacing);
+    line-height: var(--h3-line-height);
+    white-space: nowrap;
+    font-style: var(--h3-font-style);
+  }
+  
+  .INSTALLATION .span {
+    color: #622363;
+    font-family: var(--h3-font-family);
+    font-style: var(--h3-font-style);
+    font-weight: var(--h3-font-weight);
+    letter-spacing: var(--h3-letter-spacing);
+    line-height: var(--h3-line-height);
+    font-size: var(--h3-font-size);
+  }
+  
+  .INSTALLATION .text-wrapper-9 {
+    color: #fe854f;
+    font-family: var(--h3-font-family);
+    font-style: var(--h3-font-style);
+    font-weight: var(--h3-font-weight);
+    letter-spacing: var(--h3-letter-spacing);
+    line-height: var(--h3-line-height);
+    font-size: var(--h3-font-size);
+  }
+  
+  .INSTALLATION .text-wrapper-10 {
+    position: absolute;
+    width: 144px;
+    top: 49px;
+    left: 282px;
+    font-family: var(--h4-font-family);
+    font-weight: var(--h4-font-weight);
+    color: #000000;
+    font-size: var(--h4-font-size);
+    letter-spacing: var(--h4-letter-spacing);
+    line-height: var(--h4-line-height);
+    white-space: nowrap;
+    font-style: var(--h4-font-style);
+  }
+  
+  .INSTALLATION .vector {
+    position: absolute;
+    width: 64px;
+    height: 25px;
+    top: 1251px;
+    left: 1493px;
+  }
+  
+  .INSTALLATION .group-9 {
+    position: absolute;
+    width: 161px;
+    height: 425px;
+    top: 971px;
+    left: 1418px;
+  }
+  
+  .INSTALLATION .bng-cnh {
+    position: absolute;
+    width: 59px;
+    height: 50px;
+    top: 1166px;
+    left: 1490px;
+  }
+  
+  .INSTALLATION .bng-cnh-2 {
+    position: absolute;
+    width: 63px;
+    height: 56px;
+    top: 1008px;
+    left: 1507px;
+  }
+  
+  .INSTALLATION .text-wrapper-11 {
+    position: absolute;
+    width: 724px;
+    top: 2014px;
+    left: 626px;
+    font-family: var(--h1-font-family);
+    font-weight: var(--h1-font-weight);
+    color: #622363;
+    font-size: var(--h1-font-size);
+    letter-spacing: var(--h1-letter-spacing);
+    line-height: var(--h1-line-height);
+    white-space: nowrap;
+    font-style: var(--h1-font-style);
+  }
+  
+  .INSTALLATION .rectangle-4 {
+    position: absolute;
+    width: 1692px;
+    height: 714px;
+    top: 1977px;
+    left: 139px;
+    background-color: var(--pink-sn-sa);
+    border-radius: 100px 100px 0px 0px;
+    opacity: 0.5;
+  }
+  
+  .INSTALLATION .group-10 {
+    position: absolute;
+    width: 265px;
+    height: 386px;
+    top: 2124px;
+    left: 145px;
+  }
+  
+  .INSTALLATION .group-11 {
+    position: absolute;
+    width: 180px;
+    height: 45px;
+    top: 2629px;
+    left: 814px;
+  }
+  
+  .INSTALLATION .element-TRB {
+    position: absolute;
+    width: 139px;
+    height: 45px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .text-wrapper-12 {
+    width: 19px;
+    top: 12px;
+    position: absolute;
+    left: 159px;
+    font-family: var(--h6-font-family);
+    font-weight: var(--h6-font-weight);
+    color: #ffffff;
+    font-size: var(--h6-font-size);
+    text-align: center;
+    letter-spacing: var(--h6-letter-spacing);
+    line-height: var(--h6-line-height);
+    white-space: nowrap;
+    font-style: var(--h6-font-style);
+  }
+  
+  .INSTALLATION .HC-showcase-2 {
+    position: absolute;
+    width: 177px;
+    height: 49px;
+    top: 2300px;
+    left: 864px;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .single-lined-flowers {
+    position: absolute;
+    width: 161px;
+    height: 489px;
+    top: 372px;
+    left: 145px;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .single-lined-flowers-2 {
+    position: absolute;
+    width: 180px;
+    height: 489px;
+    top: 737px;
+    left: 465px;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .single-lined-flowers-3 {
+    position: absolute;
+    width: 226px;
+    height: 427px;
+    top: 744px;
+    left: 145px;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .single-lined-flowers-4 {
+    position: absolute;
+    width: 89px;
+    height: 228px;
+    top: 947px;
+    left: 1716px;
+  }
+  
+  .INSTALLATION .single-lined-flowers-5 {
+    position: absolute;
+    width: 208px;
+    height: 330px;
+    top: 975px;
+    left: 1322px;
+  }
+  
+  .INSTALLATION .group-12 {
+    position: absolute;
+    width: 1967px;
+    height: 602px;
+    top: 1096px;
+    left: 0;
+  }
+  
+  .INSTALLATION .rectangle-5 {
+    position: absolute;
+    width: 374px;
+    height: 505px;
+    top: 97px;
+    left: 405px;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .rectangle-6 {
+    position: absolute;
+    width: 375px;
+    height: 505px;
+    top: 0;
+    left: 801px;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .rectangle-7 {
+    position: absolute;
+    width: 375px;
+    height: 505px;
+    top: 97px;
+    left: 1196px;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .rectangle-8 {
+    position: absolute;
+    width: 230px;
+    height: 505px;
+    top: 0;
+    left: 145px;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .rectangle-9 {
+    position: absolute;
+    width: 233px;
+    height: 505px;
+    top: 0;
+    left: 1592px;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .group-13 {
+    position: absolute;
+    width: 397px;
+    height: 392px;
+    top: 1586px;
+    left: 1326px;
+  }
+  
+  .INSTALLATION .flower {
+    position: absolute;
+    width: 156px;
+    height: 143px;
+    top: 2358px;
+    left: 229px;
+  }
+  
+  .INSTALLATION .flower-2 {
+    position: absolute;
+    width: 122px;
+    height: 112px;
+    top: 2023px;
+    left: 182px;
+  }
+  
+  .INSTALLATION .flower-3 {
+    position: absolute;
+    width: 108px;
+    height: 99px;
+    top: 2330px;
+    left: 1605px;
+  }
+  
+  .INSTALLATION .flower-4 {
+    position: absolute;
+    width: 76px;
+    height: 70px;
+    top: 2565px;
+    left: 1691px;
+  }
+  
+  .INSTALLATION .flower-5 {
+    position: absolute;
+    width: 54px;
+    height: 49px;
+    top: 2143px;
+    left: 1143px;
+  }
+  
+  .INSTALLATION .overlap-wrapper {
+    position: absolute;
+    width: 1325px;
+    height: 486px;
+    top: 2107px;
+    left: 323px;
+  }
+  
+  .INSTALLATION .overlap-5 {
+    position: relative;
+    width: 1319px;
+    height: 486px;
+  }
+  
+  .INSTALLATION .group-14 {
+    position: absolute;
+    width: 1319px;
+    height: 486px;
+    top: 0;
+    left: 0;
+  }
+  
+  .INSTALLATION .rectangle-wrapper {
+    position: absolute;
+    width: 379px;
+    height: 486px;
+    top: 0;
+    left: 0;
+    background-color: #ffffff;
+  }
+  
+  .INSTALLATION .rectangle-10 {
+    position: absolute;
+    width: 379px;
+    height: 371px;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .img-wrapper {
+    position: absolute;
+    width: 375px;
+    height: 481px;
+    top: 4px;
+    left: 475px;
+    background-color: #ffffff;
+  }
+  
+  .INSTALLATION .rectangle-11 {
+    width: 375px;
+    height: 367px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .group-15 {
+    position: absolute;
+    width: 373px;
+    height: 481px;
+    top: 4px;
+    left: 946px;
+  }
+  
+  .INSTALLATION .overlap-group-2 {
+    position: relative;
+    height: 481px;
+  }
+  
+  .INSTALLATION .rectangle-12 {
+    position: absolute;
+    width: 373px;
+    height: 478px;
+    top: 4px;
+    left: 0;
+    background-color: #ffffff;
+    border-radius: 100px 100px 0px 0px;
+  }
+  
+  .INSTALLATION .rectangle-13 {
+    width: 373px;
+    height: 368px;
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .text-wrapper-13 {
+    position: absolute;
+    width: 146px;
+    top: 449px;
+    left: 31px;
+    font-family: var(--h6-font-family);
+    font-weight: var(--h6-font-weight);
+    color: #e56a34;
+    font-size: var(--h6-font-size);
+    letter-spacing: var(--h6-letter-spacing);
+    line-height: var(--h6-line-height);
+    white-space: nowrap;
+    font-style: var(--h6-font-style);
+  }
+  
+  .INSTALLATION .text-wrapper-14 {
+    position: absolute;
+    width: 170px;
+    top: 442px;
+    left: 513px;
+    font-family: var(--h6-font-family);
+    font-weight: var(--h6-font-weight);
+    color: #e56a34;
+    font-size: var(--h6-font-size);
+    letter-spacing: var(--h6-letter-spacing);
+    line-height: var(--h6-line-height);
+    white-space: nowrap;
+    font-style: var(--h6-font-style);
+  }
+  
+  .INSTALLATION .text-wrapper-15 {
+    position: absolute;
+    width: 148px;
+    top: 445px;
+    left: 983px;
+    font-family: var(--h6-font-family);
+    font-weight: var(--h6-font-weight);
+    color: #e56a34;
+    font-size: var(--h6-font-size);
+    letter-spacing: var(--h6-letter-spacing);
+    line-height: var(--h6-line-height);
+    white-space: nowrap;
+    font-style: var(--h6-font-style);
+  }
+  
+  .INSTALLATION .flower-6 {
+    position: absolute;
+    width: 76px;
+    height: 70px;
+    top: 2543px;
+    left: 743px;
+  }
+  
+  .INSTALLATION .flower-7 {
+    position: absolute;
+    width: 76px;
+    height: 70px;
+    top: 2060px;
+    left: 1576px;
+  }
+  
+  .INSTALLATION .text-wrapper-16 {
+    position: absolute;
+    width: 267px;
+    top: 1907px;
+    left: 1413px;
+    font-family: var(--h4-font-family);
+    font-weight: var(--h4-font-weight);
+    color: #622363;
+    font-size: var(--h4-font-size);
+    text-align: right;
+    letter-spacing: var(--h4-letter-spacing);
+    line-height: var(--h4-line-height);
+    white-space: nowrap;
+    font-style: var(--h4-font-style);
+  }
+  
+  .INSTALLATION .group-16 {
+    position: absolute;
+    width: 730px;
+    height: 183px;
+    top: 1831px;
+    left: 618px;
+  }
+  
+  .INSTALLATION .overlap-6 {
+    position: relative;
+    height: 183px;
+  }
+  
+  .INSTALLATION .one-line-modern {
+    position: absolute;
+    width: 244px;
+    height: 175px;
+    top: 1px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .one-line-modern-2 {
+    position: absolute;
+    width: 244px;
+    height: 175px;
+    top: 1px;
+    left: 196px;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .one-line-modern-3 {
+    position: absolute;
+    width: 244px;
+    height: 175px;
+    top: 0;
+    left: 395px;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .one-line-modern-4 {
+    position: absolute;
+    width: 109px;
+    height: 181px;
+    top: 3px;
+    left: 621px;
+  }
+  
+  .INSTALLATION .polygon-wrapper {
+    position: absolute;
+    width: 77px;
+    height: 75px;
+    top: 1350px;
+    left: 158px;
+    background-image: url(https://c.animaapp.com/l8dfgLp4/img/blob-15.svg);
+    background-size: 100% 100%;
+  }
+  
+  .INSTALLATION .polygon {
+    position: absolute;
+    width: 29px;
+    height: 31px;
+    top: 22px;
+    left: 21px;
+  }
+  
+  .INSTALLATION .group-17 {
+    position: absolute;
+    width: 77px;
+    height: 75px;
+    top: 1350px;
+    left: 1718px;
+    transform: rotate(180deg);
+  }
+  
+  .INSTALLATION .overlap-7 {
+    position: relative;
+    height: 75px;
+  }
+  
+  .INSTALLATION .blob-4 {
+    position: absolute;
+    width: 77px;
+    height: 75px;
+    top: 0;
+    left: 0;
+    transform: rotate(-180deg);
+  }
+  
+  .INSTALLATION .polygon-2 {
+    position: absolute;
+    width: 29px;
+    height: 31px;
+    top: 22px;
+    left: 21px;
+    transform: rotate(-180deg);
+  }
+  
+  .INSTALLATION .group-18 {
+    position: absolute;
+    width: 637px;
+    height: 67px;
+    top: 1742px;
+    left: 670px;
+  }
+  
+  .INSTALLATION .frame {
+    display: flex;
+    width: 599px;
+    height: 35px;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px 16px;
+    position: absolute;
+    top: 32px;
+    left: 18px;
+    border-radius: 25px;
+    border: 2px solid;
+    border-color: var(--pink-sn-sa);
+  }
+  
+  .INSTALLATION .text-wrapper-17 {
+    position: relative;
+    width: 532px;
+    margin-top: -4.46px;
+    margin-bottom: -0.46px;
+    font-family: var(--body-font-family);
+    font-weight: var(--body-font-weight);
+    color: var(--pink-sn-sa);
+    font-size: var(--body-font-size);
+    letter-spacing: var(--body-letter-spacing);
+    line-height: var(--body-line-height);
+    font-style: var(--body-font-style);
+  }
+  
+  .INSTALLATION .text-wrapper-18 {
+    position: absolute;
+    width: 635px;
+    top: 0;
+    left: 0;
+    font-family: var(--h6-font-family);
+    font-weight: var(--h6-font-weight);
+    color: var(--pink-sn-sa);
+    font-size: var(--h6-font-size);
+    text-align: center;
+    letter-spacing: var(--h6-letter-spacing);
+    line-height: var(--h6-line-height);
+    white-space: nowrap;
+    font-style: var(--h6-font-style);
+  }
+  
+  .INSTALLATION .text-wrapper-19 {
+    position: absolute;
+    width: 263px;
+    top: 1902px;
+    left: 289px;
+    font-family: var(--h4-font-family);
+    font-weight: var(--h4-font-weight);
+    color: #e56a34;
+    font-size: var(--h4-font-size);
+    letter-spacing: var(--h4-letter-spacing);
+    line-height: var(--h4-line-height);
+    white-space: nowrap;
+    font-style: var(--h4-font-style);
+  }
+  
+  .INSTALLATION .overlap-8 {
+    position: absolute;
+    width: 2518px;
+    height: 1356px;
+    top: 3000px;
+    left: 40px;
+  }
+  
+  .INSTALLATION .rectangle-14 {
+    position: absolute;
+    width: 1683px;
+    height: 701px;
+    top: 86px;
+    left: 176px;
+    background-color: #243974e6;
+    border-radius: 100px;
+  }
+  
+  .INSTALLATION .group-19 {
+    position: absolute;
+    width: 355px;
+    height: 161px;
+    top: 634px;
+    left: 862px;
+  }
+  
+  .INSTALLATION .element {
+    position: absolute;
+    width: 146px;
+    height: 146px;
+    top: 7px;
+    left: 0;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .images-removebg {
+    position: absolute;
+    width: 161px;
+    height: 161px;
+    top: 0;
+    left: 192px;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .text-wrapper-20 {
+    width: 22px;
+    top: 63px;
+    position: absolute;
+    left: 159px;
+    font-family: var(--h6-font-family);
+    font-weight: var(--h6-font-weight);
+    color: #ffffff;
+    font-size: var(--h6-font-size);
+    text-align: center;
+    letter-spacing: var(--h6-letter-spacing);
+    line-height: var(--h6-line-height);
+    white-space: nowrap;
+    font-style: var(--h6-font-style);
+  }
+  
+  .INSTALLATION .text-wrapper-21 {
+    position: absolute;
+    width: 396px;
+    top: 162px;
+    left: 829px;
+    font-family: var(--h1-font-family);
+    font-weight: var(--h1-font-weight);
+    color: var(--dng-kh);
+    font-size: var(--h1-font-size);
+    letter-spacing: var(--h1-letter-spacing);
+    line-height: var(--h1-line-height);
+    white-space: nowrap;
+    font-style: var(--h1-font-style);
+  }
+  
+  .INSTALLATION .blob-5 {
+    position: absolute;
+    width: 225px;
+    height: 204px;
+    top: 4px;
+    left: 1620px;
+  }
+  
+  .INSTALLATION .blob-6 {
+    position: absolute;
+    width: 279px;
+    height: 230px;
+    top: 686px;
+    left: 180px;
+  }
+  
+  .INSTALLATION .une-seule-ligne {
+    width: 319px;
+    height: 243px;
+    top: 864px;
+    left: 1152px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .une-seule-ligne-2 {
+    width: 231px;
+    height: 176px;
+    top: 938px;
+    left: 1123px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .une-seule-ligne-3 {
+    width: 339px;
+    height: 259px;
+    top: 848px;
+    left: 867px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .une-seule-ligne-4 {
+    width: 298px;
+    height: 227px;
+    top: 884px;
+    left: 1021px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .une-seule-ligne-5 {
+    width: 206px;
+    height: 157px;
+    top: 968px;
+    left: 670px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .une-seule-ligne-6 {
+    width: 297px;
+    height: 227px;
+    top: 870px;
+    left: 694px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .une-seule-ligne-7 {
+    width: 277px;
+    height: 212px;
+    top: 898px;
+    left: 553px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .une-seule-ligne-8 {
+    width: 314px;
+    height: 240px;
+    top: 876px;
+    left: 301px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .une-seule-ligne-9 {
+    width: 195px;
+    height: 150px;
+    top: 954px;
+    left: 256px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .une-seule-ligne-10 {
+    width: 298px;
+    height: 228px;
+    top: 907px;
+    left: 790px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .une-seule-ligne-11 {
+    width: 279px;
+    height: 213px;
+    top: 929px;
+    left: 436px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .une-seule-ligne-12 {
+    width: 256px;
+    height: 256px;
+    top: 853px;
+    left: 180px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .component-2 {
+    position: absolute;
+    width: 1692px;
+    height: 262px;
+    top: 1094px;
+    left: 176px;
+    background-color: var(--xm-thi-ni);
+  }
+  
+  .INSTALLATION .images {
+    position: absolute;
+    width: 220px;
+    height: 132px;
+    top: 67px;
+    left: 58px;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .group-20 {
+    position: absolute;
+    width: 185px;
+    height: 152px;
+    top: 29px;
+    left: 738px;
+  }
+  
+  .INSTALLATION .text-wrapper-22 {
+    position: absolute;
+    width: 91px;
+    top: 134px;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .INSTALLATION .text-wrapper-23 {
+    position: absolute;
+    width: 157px;
+    top: 82px;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .INSTALLATION .text-wrapper-24 {
+    position: absolute;
+    width: 87px;
+    top: 108px;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .INSTALLATION .text-wrapper-25 {
+    position: absolute;
+    width: 173px;
+    top: 29px;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .INSTALLATION .text-wrapper-26 {
+    position: absolute;
+    width: 125px;
+    top: 0;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 700;
+    color: var(--dng-kh);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .INSTALLATION .text-wrapper-27 {
+    width: 87px;
+    top: 55px;
+    font-weight: 300;
+    color: #ffffff;
+    position: absolute;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .INSTALLATION .group-21 {
+    position: absolute;
+    width: 564px;
+    height: 71px;
+    top: 29px;
+    left: 1059px;
+  }
+  
+  .INSTALLATION .text-wrapper-28 {
+    width: 147px;
+    top: 0;
+    font-weight: 700;
+    color: var(--dng-kh);
+    position: absolute;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .INSTALLATION .chi-nh-nh-s-i-g-n {
+    position: absolute;
+    width: 512px;
+    top: 25px;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .INSTALLATION .text-wrapper-29 {
+    font-weight: 700;
+  }
+  
+  .INSTALLATION .text-wrapper-30 {
+    font-weight: 300;
+  }
+  
+  .INSTALLATION .chi-nh-nh-h-n-i-s {
+    position: absolute;
+    width: 558px;
+    top: 53px;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 400;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .INSTALLATION .group-22 {
+    position: absolute;
+    width: 256px;
+    height: 199px;
+    top: 29px;
+    left: 364px;
+  }
+  
+  .INSTALLATION .text-wrapper-31 {
+    position: absolute;
+    width: 162px;
+    top: 130px;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .INSTALLATION .text-wrapper-32 {
+    position: absolute;
+    width: 216px;
+    top: 101px;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .INSTALLATION .text-wrapper-33 {
+    position: absolute;
+    width: 208px;
+    top: 69px;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .INSTALLATION .CH-m-s-c-KH-CH-h-NG {
+    position: absolute;
+    width: 242px;
+    top: 0;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 700;
+    color: var(--dng-kh);
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+  }
+  
+  .INSTALLATION .text-wrapper-34 {
+    position: absolute;
+    width: 162px;
+    top: 41px;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .INSTALLATION .text-wrapper-35 {
+    position: absolute;
+    width: 225px;
+    top: 155px;
+    left: 0;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .INSTALLATION .text-wrapper-36 {
+    position: absolute;
+    width: 187px;
+    top: 182px;
+    left: 1px;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: normal;
+    white-space: nowrap;
+  }
+  
+  .INSTALLATION .b-n-TIN-ng-k-nh-n-c {
+    position: absolute;
+    width: 499px;
+    top: 129px;
+    left: 1060px;
+    font-family: "Montserrat Alternates", Helvetica;
+    font-weight: 400;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 16px;
+  }
+  
+  .INSTALLATION .text-wrapper-37 {
+    font-weight: 700;
+    color: #f1ce52;
+  }
+  
+  .INSTALLATION .text-wrapper-38 {
+    color: #ffffff;
+    line-height: 25px;
+  }
+  
+  .INSTALLATION .mithosis {
+    position: absolute;
+    width: 199px;
+    height: 107px;
+    top: -3560px;
+    left: -9752px;
+  }
+  
+  .INSTALLATION .group-23 {
+    position: absolute;
+    width: 2518px;
+    height: 37px;
+    top: 0;
+    left: 0;
+  }
+  
+  .INSTALLATION .text-wrapper-39 {
+    position: absolute;
+    width: 395px;
+    top: 0;
+    left: 426px;
+    font-family: var(--h4-font-family);
+    font-weight: var(--h4-font-weight);
+    color: #243974;
+    font-size: var(--h4-font-size);
+    letter-spacing: var(--h4-letter-spacing);
+    line-height: var(--h4-line-height);
+    white-space: nowrap;
+    font-style: var(--h4-font-style);
+  }
+  
+  .INSTALLATION .text-wrapper-40 {
+    left: 1269px;
+    color: #243974;
+    position: absolute;
+    width: 395px;
+    top: 0;
+    font-family: var(--h4-font-family);
+    font-weight: var(--h4-font-weight);
+    font-size: var(--h4-font-size);
+    letter-spacing: var(--h4-letter-spacing);
+    line-height: var(--h4-line-height);
+    white-space: nowrap;
+    font-style: var(--h4-font-style);
+  }
+  
+  .INSTALLATION .text-wrapper-41 {
+    left: 857px;
+    color: #d62d63;
+    position: absolute;
+    width: 395px;
+    top: 0;
+    font-family: var(--h4-font-family);
+    font-weight: var(--h4-font-weight);
+    font-size: var(--h4-font-size);
+    letter-spacing: var(--h4-letter-spacing);
+    line-height: var(--h4-line-height);
+    white-space: nowrap;
+    font-style: var(--h4-font-style);
+  }
+  
+  .INSTALLATION .text-wrapper-42 {
+    left: 1686px;
+    color: #d62d63;
+    position: absolute;
+    width: 395px;
+    top: 0;
+    font-family: var(--h4-font-family);
+    font-weight: var(--h4-font-weight);
+    font-size: var(--h4-font-size);
+    letter-spacing: var(--h4-letter-spacing);
+    line-height: var(--h4-line-height);
+    white-space: nowrap;
+    font-style: var(--h4-font-style);
+  }
+  
+  .INSTALLATION .text-wrapper-43 {
+    left: 2111px;
+    color: #243974;
+    position: absolute;
+    width: 395px;
+    top: 0;
+    font-family: var(--h4-font-family);
+    font-weight: var(--h4-font-weight);
+    font-size: var(--h4-font-size);
+    letter-spacing: var(--h4-letter-spacing);
+    line-height: var(--h4-line-height);
+    white-space: nowrap;
+    font-style: var(--h4-font-style);
+  }
+  
+  .INSTALLATION .text-wrapper-44 {
+    left: 0;
+    color: #d62d63;
+    position: absolute;
+    width: 395px;
+    top: 0;
+    font-family: var(--h4-font-family);
+    font-weight: var(--h4-font-weight);
+    font-size: var(--h4-font-size);
+    letter-spacing: var(--h4-letter-spacing);
+    line-height: var(--h4-line-height);
+    white-space: nowrap;
+    font-style: var(--h4-font-style);
+  }
+  
+  .INSTALLATION .daisy-SVG-daisy {
+    position: absolute;
+    width: 105px;
+    height: 114px;
+    top: 640px;
+    left: 523px;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .daisy-SVG-daisy-2 {
+    width: 58px;
+    height: 62px;
+    top: 641px;
+    left: 786px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .daisy-SVG-daisy-3 {
+    width: 58px;
+    height: 62px;
+    top: 136px;
+    left: 737px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .daisy-SVG-daisy-4 {
+    width: 58px;
+    height: 62px;
+    top: 169px;
+    left: 313px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .daisy-SVG-daisy-5 {
+    width: 83px;
+    height: 89px;
+    top: 93px;
+    left: 1503px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .daisy-SVG-daisy-6 {
+    width: 83px;
+    height: 89px;
+    top: 109px;
+    left: 473px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .daisy-SVG-daisy-7 {
+    width: 96px;
+    height: 104px;
+    top: 628px;
+    left: 1455px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .daisy-SVG-daisy-8 {
+    width: 67px;
+    height: 72px;
+    top: 136px;
+    left: 1298px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .group-24 {
+    position: absolute;
+    width: 1477px;
+    height: 380px;
+    top: 248px;
+    left: 266px;
+  }
+  
+  .INSTALLATION .overlap-9 {
+    position: relative;
+    height: 380px;
+  }
+  
+  .INSTALLATION .group-25 {
+    position: absolute;
+    width: 1458px;
+    height: 361px;
+    top: 19px;
+    left: 19px;
+  }
+  
+  .INSTALLATION .group-26 {
+    position: absolute;
+    width: 325px;
+    height: 355px;
+    top: 0;
+    left: 381px;
+    background-color: var(--cam-chy);
+    border-radius: 100px;
+    opacity: 0.8;
+  }
+  
+  .INSTALLATION .group-27 {
+    position: absolute;
+    width: 695px;
+    height: 355px;
+    top: 6px;
+    left: 763px;
+    opacity: 0.8;
+  }
+  
+  .INSTALLATION .group-28 {
+    position: absolute;
+    width: 325px;
+    height: 355px;
+    top: 0;
+    left: 0;
+    background-color: var(--pink-sn-sa);
+    border-radius: 100px;
+  }
+  
+  .INSTALLATION .group-29 {
+    left: 370px;
+    background-color: var(--hong-trng-lm);
+    border-radius: 100px;
+    position: absolute;
+    width: 325px;
+    height: 355px;
+    top: 0;
+  }
+  
+  .INSTALLATION .group-30 {
+    position: absolute;
+    width: 324px;
+    height: 355px;
+    top: 0;
+    left: 0;
+    background-color: var(--dng-kh);
+    border-radius: 100px;
+    opacity: 0.8;
+  }
+  
+  .INSTALLATION .group-31 {
+    position: absolute;
+    width: 1458px;
+    height: 361px;
+    top: 0;
+    left: 0;
+  }
+  
+  .INSTALLATION .group-32 {
+    left: 381px;
+    background-image: url(https://c.animaapp.com/l8dfgLp4/img/rectangle-428-3@2x.png);
+    background-size: cover;
+    background-position: 50% 50%;
+    position: absolute;
+    width: 325px;
+    height: 355px;
+    top: 0;
+  }
+  
+  .INSTALLATION .group-33 {
+    position: absolute;
+    width: 695px;
+    height: 355px;
+    top: 6px;
+    left: 763px;
+  }
+  
+  .INSTALLATION .group-34 {
+    position: absolute;
+    width: 325px;
+    height: 355px;
+    top: 0;
+    left: 0;
+    background-image: url(https://c.animaapp.com/l8dfgLp4/img/rectangle-428-4@2x.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .INSTALLATION .group-35 {
+    left: 370px;
+    background-image: url(https://c.animaapp.com/l8dfgLp4/img/rectangle-428-5@2x.png);
+    background-size: cover;
+    background-position: 50% 50%;
+    position: absolute;
+    width: 325px;
+    height: 355px;
+    top: 0;
+  }
+  
+  .INSTALLATION .group-36 {
+    position: absolute;
+    width: 324px;
+    height: 355px;
+    top: 0;
+    left: 0;
+    background-image: url(https://c.animaapp.com/l8dfgLp4/img/rectangle-428-6@2x.png);
+    background-size: cover;
+    background-position: 50% 50%;
+  }
+  
+  .INSTALLATION .daisy-SVG-daisy-9 {
+    width: 67px;
+    height: 72px;
+    top: 599px;
+    left: 1724px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .une-seule-ligne-13 {
+    width: 36px;
+    height: 157px;
+    top: 965px;
+    left: 1824px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .une-seule-ligne-14 {
+    width: 12px;
+    height: 227px;
+    top: 868px;
+    left: 1848px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .une-seule-ligne-15 {
+    width: 153px;
+    height: 212px;
+    top: 896px;
+    left: 1707px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .une-seule-ligne-16 {
+    width: 314px;
+    height: 240px;
+    top: 874px;
+    left: 1455px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .une-seule-ligne-17 {
+    width: 195px;
+    height: 150px;
+    top: 951px;
+    left: 1410px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .une-seule-ligne-18 {
+    width: 270px;
+    height: 213px;
+    top: 926px;
+    left: 1590px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .une-seule-ligne-19 {
+    width: 335px;
+    height: 256px;
+    top: 850px;
+    left: 1264px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .une-seule-ligne-20 {
+    width: 298px;
+    height: 228px;
+    top: 4303px;
+    left: -9002px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .overlap-10 {
+    position: absolute;
+    width: 855px;
+    height: 303px;
+    top: 4596px;
+    left: -9180px;
+  }
+  
+  .INSTALLATION .une-seule-ligne-21 {
+    width: 364px;
+    height: 277px;
+    top: 18px;
+    left: 325px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .une-seule-ligne-22 {
+    width: 264px;
+    height: 201px;
+    top: 102px;
+    left: 556px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .une-seule-ligne-23 {
+    width: 387px;
+    height: 295px;
+    top: 0;
+    left: 0;
+    position: absolute;
+    object-fit: cover;
+  }
+  
+  .INSTALLATION .une-seule-ligne-24 {
+    width: 340px;
+    height: 259px;
+    top: 41px;
+    left: 515px;
+    position: absolute;
+    object-fit: cover;
+  }
+  
