@@ -25,11 +25,11 @@
                     <div class="group-2">
                       <div class="overlap-4">
                         <div class="group-3">
-                          <div class="text-wrapper">TRANG CHỦ</div>
-                          <div class="text-wrapper-2">VỀ BỌN TỚ</div>
-                          <div class="text-wrapper-3">BỘ SƯU TẬP</div>
-                          <div class="text-wrapper-4">WORKSHOP/EVENT</div>
-                          <div class="text-wrapper-5">BLOG</div>
+                          <a href="{% url 'trangchu' %}" class="text-wrapper">TRANG CHỦ</a>
+                          <a href="{% url 'vechungto' %}" class="text-wrapper-2">VỀ BỌN TỚ</a>
+                          <a href="{% url 'bosuutap' %}"  class="text-wrapper-3">BỘ SƯU TẬP</a>
+                          <a href="{% url 'workshop' %}"  class="text-wrapper-4">WORKSHOP/EVENT</a>
+                          <a class="text-wrapper-5">BLOG</a>
                         </div>
                         <img class="HC-showcase" src="https://c.animaapp.com/l8dfgLp4/img/hc-showcase-26-1@2x.png" />
                       </div>
@@ -41,7 +41,7 @@
                       </div>
                       <div class="group-5">
                         <div class="rectangle-3"></div>
-                        <img class="basket" src="https://c.animaapp.com/l8dfgLp4/img/basket@2x.png" />
+                        <a href="{% url 'giohang' %}" > <img class="basket" src="https://c.animaapp.com/l8dfgLp4/img/basket@2x.png" /> </a>
                       </div>
                     </div>
                     <div class="group-6"></div>

@@ -25,5 +25,8 @@ urlpatterns = [
     path('bosuutap/', views.bosuutap, name='bosuutap'),
     path('workshop/', views.workshop, name='workshop'),
     path('installation/', views.installation, name='installation'),
+    path('thietke/', views.thietke, name='thietke'),
+    path('giohang/', views.giohang, name='giohang'),
+    path('addtocart/', views.addtocart, name='addtocart'),
     path('user/', include('user.urls')), 
 ]

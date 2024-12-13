@@ -30,7 +30,7 @@
           <div class="LO-i-HOA">LOẠI<br />HOA</div>
           <img class="cloud" src="https://c.animaapp.com/hF9WWMOu/img/cloud.svg" />
           <div class="v-t-CH-a">VẬT<br />CHỨA</div>
-          <a href="{% url 'vechungto' %}"  id="image-button"> <div class="frame"><p class="p">DÔ ĐÂY ĐỂ LÀM DESIGNER NÈE</p></div> </a>
+          <a href="{% url 'thietke' %}"  id="image-button"> <div class="frame"><p class="p">DÔ ĐÂY ĐỂ LÀM DESIGNER NÈE</p></div> </a>
           <div class="rectangle-9"></div>
           <div class="group-2">
             <img class="img" src="https://c.animaapp.com/hF9WWMOu/img/group-198@2x.png" />
@@ -234,7 +234,7 @@
               <div class="frame-9"><div class="text-wrapper-32">NHẸ NHÀNG</div></div>
             </div>
           </div>
-          <a href="{% url 'vechungto' %}"  id="image-button"> <div class="XEM-TH-m-y-NHEE-wrapper"><p class="XEM-TH-m-y-NHEE">XEM THÊM Ở ĐÂY NHEE &gt;&gt;&gt;</p></div> </a>
+          <a href="{% url 'giohang' %}"  id="image-button"> <div class="XEM-TH-m-y-NHEE-wrapper"><p class="XEM-TH-m-y-NHEE">XEM THÊM Ở ĐÂY NHEE &gt;&gt;&gt;</p></div> </a>
           <img class="group-23" src="https://c.animaapp.com/hF9WWMOu/img/group-288@2x.png" />
           <div class="group-24">
             <div class="group-25">
@@ -391,7 +391,7 @@
                   <img class="LOGIN" src="https://c.animaapp.com/hF9WWMOu/img/login.png" alt="Login Button">
                 </a>
                 </div>
-                <img class="group-44" src="https://c.animaapp.com/hF9WWMOu/img/group-227.png" />
+                <a href="{% url 'giohang' %}" ><img class="group-44" src="https://c.animaapp.com/hF9WWMOu/img/group-227.png" /></a>
             </div>
               <div class="group-45"></div>
             </div>
@@ -412,7 +412,7 @@
           <img class="frame-17" src="https://c.animaapp.com/hF9WWMOu/img/frame-3.svg" />
           <img class="bng-cnh-3" src="https://c.animaapp.com/hF9WWMOu/img/b-ng-4-c-nh.svg" />
           <div class="group-51">
-            <div class="text-wrapper-61">BẬT MODE DESIGNER</div>
+            <a class="text-wrapper-61">BẬT MODE DESIGNER</a>
             <img class="switch" src="https://c.animaapp.com/hF9WWMOu/img/switch.svg" />
             <img class="hoa-nhy-tng-tng-8" src="https://c.animaapp.com/hF9WWMOu/img/hoa-nh-y-t-ng-t-ng-10.svg" />
           </div>
@@ -422,12 +422,5 @@
         <img class="rectangle-23" src="img/rectangle-203.svg" />
       </div>
     </div>
-    {% if messages %}
-    <ul class="messages">
-        {% for message in messages %}
-            <li class="alert {{ message.tags }}">{{ message }}</li>
-        {% endfor %}
-    </ul>
-    {% endif %}
   </body>
 </html>

@@ -12,13 +12,18 @@
       <div class="div">
         <div class="overlap">
           <div class="rectangle"></div>
-          <div class="rectangle-2"></div>
+          <div class="rectangle-2"> </div>
           <div class="group">
-            <div class="welcomeback-fabiana">Xin chào cậu 👋</div>
+            <div class="welcomeback-fabiana">Xin chào cậu 👋
+            </div>
             <p class="text-wrapper">Cậu đăng nhập ở đây nhee</p>
           </div>
+          <!-- Hiển thị messages -->
+          <form id="loginForm" method="POST" action="{% url 'login' %}">
+          {% csrf_token %}
+          
           <div class="group-2">
-            <input class="frame"><div class="text"></div></input>
+            <input class="frame"  type="email" name="email" id="email" ><div class="text"></div></input>
             <div class="label">Địa chỉ Email</div>
           </div>
           <div class="frame-2">
@@ -29,19 +34,51 @@
             </label>
             <p class="welcomeback-fabiana-2">Cậu quên mật khẩu sao?</p>
           </div>
-          <button class="button">
+          <button class="button" type="submit" id="submitButton"  >
             <img class="close-up" src="https://c.animaapp.com/0iD0Hk0Q/img/close-up@2x.png" />
             <a class="text-wrapper-2">DÔ MUA HOA THOIII </a>
           </button>
+          
           <div class="overlap-group-wrapper">
             <div class="overlap-group">
               <div class="group-3">
-                <input class="frame-3"> </input>
+                <input class="frame-3" type="text" name="pass" id="pass" > </input>
                 <div class="label">Mật khẩu</div>
               </div>
             </div>
-          </div>
+          </div>  
+          
         </div>
+      </form>
+        <script>
+          document.addEventListener('DOMContentLoaded', function () {
+              const form = document.getElementById('loginForm');
+              const submitButton = document.getElementById('submitButton');
+      
+              // Ngăn chặn hành vi gửi form mặc định
+              form.addEventListener('submit', function (event) {
+                  event.preventDefault(); // Chặn gửi form mặc định
+      
+                  // Kiểm tra nếu nút submit được nhấn
+                  if (event.submitter === submitButton) {
+                      form.submit(); // Thực hiện gửi form
+                  }
+              });
+          });
+      </script>
+      <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const messages = document.querySelectorAll('.message');
+            messages.forEach((message) => {
+                // Đặt timeout để ẩn thông báo sau 3 giây
+                setTimeout(() => {
+                    message.style.opacity = '0'; // Làm mờ
+                    setTimeout(() => message.remove(), 500); // Loại bỏ hoàn toàn khỏi DOM sau khi mờ
+                }, 3000);
+            });
+        });
+      </script>
+      
         <div class="HC-showcase-wrapper">
           <img class="HC-showcase" src="https://c.animaapp.com/0iD0Hk0Q/img/hc-showcase-26-1@2x.png" />
         </div>

@@ -13,3 +13,12 @@ def workshop(request):
 
 def installation(request):
     return render(request, 'installation.html') 
+
+def thietke(request):
+    return render(request, 'thietke.html') 
+
+def giohang(request):
+    return render(request, 'giohang.html') 
+
+def addtocart(request):
+    return render(request, 'addtocart.html') 
